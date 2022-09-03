@@ -1,0 +1,17 @@
+
+
+.tr :hover{
+    cursor: pointer;
+}
+
+.action-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100px;
+}
+
+.table-container {
+    margin-top: 50px;
+}
